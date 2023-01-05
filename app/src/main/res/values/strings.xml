@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multiple Fragments App</string>
+    <string name="welcome_text"> Welcome to the Best App, Use this to encrypt a Message, THis app is users</string>
+    <string name="start"> Start </string>
+    <string name="message_hint"> please enter your secret message </string>
+    <string name="next">Next</string>
+    <string name="encrypt_text">Here is your encrypter Message</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
